@@ -1,1 +1,1 @@
-# mny todo list
+# my todo list
